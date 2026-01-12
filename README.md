@@ -9,9 +9,9 @@ I build secure, scalable platforms for emerging markets and craft interactive le
 
 - [LinkedIn](#)
 - [Email](mailto:adodanieln@gmail.com)
-- [Portfolio]([#](https://portfolio-five-tawny-62.vercel.app/))
-- [Twitter](#)
-- [Facebook]([#](https://web.facebook.com/profile.php?id=61552264901088))
+- [Portfolio](https://portfolio-five-tawny-62.vercel.app/)
+- [Twitter][#]
+- [Facebook](https://web.facebook.com/profile.php?id=61552264901088)
 
 ---
 
