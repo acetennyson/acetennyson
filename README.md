@@ -93,7 +93,7 @@ I build secure, scalable platforms for emerging markets and craft interactive le
 ## 💡 Dev Philosophy
 
 > “Dealing with failure is easy: Work hard to improve.” – Alan Perlis  
-> “Build with purpose. Teach with clarity. Inspire through action.” – Demonic
+> “Build with purpose. Teach with clarity. Inspire through action.” – Ado Daniel NJ
 
 ---
 
