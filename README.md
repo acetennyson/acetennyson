@@ -1,4 +1,4 @@
-# 🚀 Demonic — Pragmatic Architect & Bilingual Educator
+# 🚀 ADO DANIEL NJI — Pragmatic Architect & Bilingual Educator
 
 **Focused. Visionary. Resilient.**  
 I build secure, scalable platforms for emerging markets and craft interactive learning experiences that empower developers across cultures.
