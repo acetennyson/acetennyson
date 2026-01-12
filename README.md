@@ -8,9 +8,10 @@ I build secure, scalable platforms for emerging markets and craft interactive le
 ## 🌍 Socials
 
 - [LinkedIn](#)
-- [Email](mailto:your.email@example.com)
-- [Portfolio](#)
+- [Email](mailto:adodanieln@gmail.com)
+- [Portfolio]([#](https://portfolio-five-tawny-62.vercel.app/))
 - [Twitter](#)
+- [Facebook]([#](https://web.facebook.com/profile.php?id=61552264901088))
 
 ---
 
@@ -112,6 +113,7 @@ I build secure, scalable platforms for emerging markets and craft interactive le
 - Delivering a workplace harassment prevention course with engaging, instructor-led modules
 - Refining narration scripts for interactivity and energy in both English and French
 - Translating and adapting educational content for francophone audiences
+- **Contributing to [Mbende Stay](https://mbende-stay.vercel.app)** — a project focused on cultural heritage and digital innovation
 
 ---
 
