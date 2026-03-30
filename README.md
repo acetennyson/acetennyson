@@ -57,7 +57,7 @@ The vision: a platform layer that lets any developer add social gaming to their 
 ---
 
 ### 🏛️ Mbende Stay — *Cultural Heritage Meets Digital Innovation*
-> **Status: Active Contributor · [mbende-stay.vercel.app](https://mbendestay.com)**
+> **Status: Active Contributor · [mbendestay.com](https://mbendestay.com)**
 
 A platform preserving and promoting Cameroonian cultural heritage through digital experiences. Proof that tech and culture aren't opposites — they amplify each other.
 
