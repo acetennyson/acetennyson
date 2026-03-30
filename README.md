@@ -19,7 +19,7 @@
 <div align="center">
 
 *"The best way to predict the future is to build it."*
-https://portfolio-five-tawny-62.vercel.app/admin
+https://portfolio-five-tawny-62.vercel.app
 </div>
 
 ---
