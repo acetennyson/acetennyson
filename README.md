@@ -28,19 +28,13 @@ const ado = {
     "Architecting secure, scalable platforms for emerging markets",
     "Full-stack implementation from concept to production",
     "Payment system integration across African & global markets",
-    "Instructional design & bilingual developer education",
     "AI-powered workflow automation",
+    "Instructional design & bilingual developer education",
   ],
 
   currentlyBuilding: [
-    "NightShift — AI client outreach tool for global freelancers (Notion MCP Challenge)",
+    "NightShift — AI client outreach for global freelancers (Notion MCP Challenge)",
     "Beta Gamer — GaaS API for embedding multiplayer games",
-  ],
-
-  seeking: [
-    "Collaborators who build things that matter",
-    "Organizations investing in African tech talent",
-    "Opportunities to lead, mentor, and scale impact",
   ],
 
   philosophy: "Build with purpose. Teach with clarity. Inspire through action.",
@@ -49,19 +43,13 @@ const ado = {
 
 ---
 
-## 🌍 My Mission
+## 🌍 The Mission
 
-I believe Africa's next generation of builders is already here — brilliant, creative, and hungry. What's missing is **visibility, infrastructure, and belief**.
+Africa has brilliant minds. What it needs is builders who ship — and who do it publicly, loudly, and with intention.
 
-My work is driven by two goals:
+I build platforms that understand our payment systems, our languages, our constraints, and our ambitions. Not tools adapted for Africa — tools **built from** Africa.
 
-**1. Show Africa what's possible with tech.**
-Not just using tools built elsewhere — but building the tools. Platforms that understand our payment systems, our languages, our constraints, and our ambitions.
-
-**2. Keep young African developers in the game.**
-Too many give up — not because they lack talent, but because they lack money, mentorship, and a clear path forward. I'm building the kind of presence and influence that can change that. Every project I ship, every line of code I write publicly, is part of that proof.
-
-I'm currently working toward joining **GDGOC Buea** — not just to participate, but to contribute meaningfully to the community, build leadership experience, and gain the recognition needed to amplify this mission.
+Beyond shipping code, I'm building the kind of presence that keeps young African developers in the game. Too many walk away — not because they lack talent, but because they lack visibility into what's possible. Every project I ship is proof that it's possible.
 
 ---
 
@@ -148,13 +136,13 @@ GaaS (Games as a Service) API — embed multiplayer games into any app in minute
 ![Notion MCP](https://img.shields.io/badge/Notion_MCP-000000?style=flat-square&logo=notion&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## 💳 Payment Systems I've Integrated
+## 💳 Payment Systems
 
 Building for Africa means building for the real payment landscape:
 
@@ -179,34 +167,11 @@ Building for Africa means building for the real payment landscape:
 
 ---
 
-## 🎓 Instructional Design & Education
-
-Beyond code, I design learning experiences — especially for bilingual (English/French) audiences:
-
-- 🧭 Modular curriculum design for developer education
-- 🎬 Interactive video production with scenario-based training
-- 🌐 Content adaptation for francophone African audiences
-- 🔐 Security-focused training (Firestore rules, role-based access)
-
----
-
 ## 💬 Philosophy
 
 > *"Dealing with failure is easy: Work hard to improve."* — Alan Perlis
 
 > *"Build with purpose. Teach with clarity. Inspire through action."* — Ado Daniel NJ
-
----
-
-## 🤝 Let's Connect
-
-If you're:
-- An **organization** investing in African tech talent
-- A **founder** building something that needs a strong technical partner
-- A **developer** in Cameroon or Africa who needs mentorship or direction
-- Anyone who believes **Africa's tech moment is now**
-
-→ **[adodanieln@gmail.com](mailto:adodanieln@gmail.com)** · **[Portfolio](https://adodanielnj.vercel.app)**
 
 ---
 
