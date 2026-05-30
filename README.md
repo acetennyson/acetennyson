@@ -28,8 +28,7 @@ https://portfolio-five-tawny-62.vercel.app
 
 I'm a senior full-stack developer and technical architect based in Cameroon. I've been building production systems for years — platforms that handle real money, real users, and real infrastructure constraints in African markets.
 
-But I'm not just a developer. I think like a founder. Every system I build is designed to scale, to generate value, and to outlast the sprint it was born in. I study how Zuckerberg turned a dorm project into a global platform. How Jobs turned taste into a trillion-dollar company. How Bezos turned logistics into leverage. I'm building toward that — starting from Cameroon, building for the world.
-
+But I'm not just a developer. I think like a founder. Every system I build is designed to scale, to generate value, and to outlast the sprint it was born in.
 ---
 
 ## 🚀 Active Projects
