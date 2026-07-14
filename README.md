@@ -28,6 +28,22 @@ https://portfolio-five-tawny-62.vercel.app
 I'm a senior full-stack developer and technical architect based in Cameroon. I've been building production systems for years — platforms that handle real money, real users, and real infrastructure constraints in African markets.
 
 But I'm not just a developer. I think like a founder. Every system I build is designed to scale, to generate value, and to outlast the sprint it was born in.
+
+---
+
+## ⚙️ How I Build
+
+I don't design for today's requirement. I design for the shape requirements take when they change.
+
+If a system needs to handle 4 of something right now, I don't hardcode 4 — I make the number a parameter, so scaling to 7 later is a config change, not a rewrite. Group-first, not case-by-case: build the general solution once, and let every specific case fall out of it naturally.
+
+This shows up everywhere I build:
+
+- **Beta Gamer's matchmaking** is architected group-first — a 1v1 match is just a group of two, not a special case bolted onto a bigger system.
+- **JobHub exposes API keys and webhooks** from day one, so it's not a walled garden — other platforms can push listings in or pull them out without touching the core app.
+
+Increasingly, this is why I think in terms of **SaaS and infrastructure**, not just software. A tool that lives only inside its own UI is a ceiling. A tool other systems can integrate into is a foundation.
+
 ---
 
 ## 🚀 Active Projects
@@ -44,11 +60,11 @@ Built with Next.js 15, Notion MCP, Supabase Realtime, multi-provider AI (Gemini 
 ---
 
 ### 🎮 Beta Gamer — *Games as a Service API*
-> **Status: In Development · [beta-gamer.vercel.app](http://beta-gamer.vercel.app/)**
+> **[beta-gamer.vercel.app](http://beta-gamer.vercel.app/) · [Docs](https://beta-gamer.onrender.com/docs/) · [@beta-gamer/react](https://www.npmjs.com/package/@beta-gamer/react) · [@beta-gamer/react-native](https://www.npmjs.com/package/@beta-gamer/react-native)**
 
-Embed multiplayer games into any app in minutes. You bring the users — Beta Gamer handles game logic, real-time matchmaking, and infrastructure. Think Twilio for gaming.
+Embed real-time multiplayer games into any app with one integration — under your brand, with your rules, without touching a single line of game logic.
 
-The vision: a platform layer that lets any developer add social gaming to their product without building the hard parts from scratch.
+10 games live, including Chess, Ludo, 8-Ball Pool, Archery, Piano Tiles, Connect 4, and Check. Multi-tenant architecture with isolated matchmaking per partner. Hosted matchmaking mode where your own backend controls the queues. Bots injectable via API into live sessions — partners control bot logic from entirely outside the system, in real time. SDKs on npm for React and React Native.
 
 `Node.js` `WebSockets` `Real-time Infrastructure` `API Design` `Gaming`
 
@@ -63,23 +79,21 @@ A platform preserving and promoting Cameroonian cultural heritage through digita
 
 ---
 
-### 📚 DevPath Africa *(Planned)*
-> **Status: In Design**
+### 💼 JobHub — *Cameroon's Job Board*
+> **[jobhub-psi.vercel.app](https://jobhub-psi.vercel.app)**
 
-A structured learning platform for African developers — bilingual (English/French), built around real market constraints, and designed to keep developers in the game past the first year. Curriculum design, mentorship infrastructure, and community built in.
+A job board that scores listings against actual skills, seniority, and location — not keyword luck — with explainable results so candidates see exactly why a job matched them. Verified employers, real-time match alerts, and API keys/webhooks so other platforms can push listings in or pull them out without being limited to the app itself.
 
-The problem: too many African developers have the talent but not the roadmap. DevPath fixes that.
-
-`EdTech` `Bilingual` `Mentorship` `Africa`
+`Next.js` `API Integrations` `Webhooks` `Verified Employers`
 
 ---
 
-### 💰 PayBridge Africa *(Planned)*
-> **Status: Research Phase**
+### 🛡️ SafeCircle — *Guardian & Safety Platform*
+> **Hackathon Build**
 
-A unified payment abstraction layer for African markets — one API, all major payment providers (MTN MoMo, Orange Money, Flutterwave, Stripe, etc.). Developers shouldn't have to integrate 6 different SDKs to accept money across the continent.
+Connects guardian mobile apps with GPS tracker devices over persistent WebSocket connections. AI-powered post classification, a community safe-zone feed, real-time alerts, and multi-language support across five African languages (EN, FR, YO, HA, IG).
 
-`Fintech` `API` `Africa` `Payments`
+`Next.js` `Socket.IO` `Supabase` `Gemini` `Claude` `Groq` `Capacitor`
 
 ---
 
