@@ -18,7 +18,7 @@
 <div align="center">
 
 *"The best way to predict the future is to build it."*
-https://portfolio-five-tawny-62.vercel.app
+
 </div>
 
 ---
@@ -138,14 +138,6 @@ Connects guardian mobile apps with GPS tracker devices over persistent WebSocket
 
 ---
 
-## 💳 Payment Systems I've Shipped
-
-`MTN MoMo` · `Orange Money` · `Tranzak` · `PayUnit` · `PayPal` · `NOWPayments` · `Stripe` · `Flutterwave`
-
-Real integrations. Real money. Real African markets.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -160,16 +152,6 @@ Real integrations. Real money. Real African markets.
 [![GitHub Streak](https://streak-stats.demolab.com?user=acetennyson&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🌍 The Bigger Picture
-
-Zuckerberg started with a college directory. Jobs started with a garage. Bezos started with books.
-
-I'm starting with Africa's real problems — timezone gaps, fragmented payment systems, developers who quit too early, cultural heritage going undigitized. These aren't small problems. They're billion-person problems.
-
-The path from developer to founder isn't a career change. It's a mindset that was always there. I build systems. I think in scale. I ship.
 
 ---
 
