@@ -132,19 +132,20 @@ React and React Native SDKs, Capacitor mobile apps, web front ends, payment inte
 
 ## On GitHub
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=acetennyson&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117">
+    <img width="49%" alt="GitHub statistics for acetennyson" src="https://github-readme-stats.vercel.app/api?username=acetennyson&amp;show_icons=true&amp;theme=default&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true">
+  </picture>
+  
+</p>
+
+<p align="center">
   <a href="https://gitscore.live/acetennyson">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/acetennyson?style=card&theme=dark" />
       <img src="https://gitscore.live/api/badge/acetennyson?style=card" alt="GitScore for acetennyson" />
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=acetennyson&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117">
-    <img width="49%" alt="GitHub statistics for acetennyson" src="https://github-readme-stats.vercel.app/api?username=acetennyson&amp;show_icons=true&amp;theme=default&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true">
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acetennyson&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117">
     <img width="49%" alt="Most used languages across acetennyson's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acetennyson&amp;layout=compact&amp;langs_count=7&amp;theme=default&amp;hide_border=true">
