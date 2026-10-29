@@ -1,4 +1,4 @@
-<h1>Ado Daniel NJI</h1>
+<h1>Ado Daniel NJI </h1>
 
 > **Engineering Secure, Automated & Adaptable Systems**
 
@@ -130,7 +130,7 @@ React and React Native SDKs, Capacitor mobile apps, web front ends, payment inte
 
 ---
 
-## On GitHub
+## On GitHub [![GitScore for acetennyson](https://gitscore.live/api/badge/acetennyson)](https://gitscore.live/acetennyson)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=acetennyson&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117">
