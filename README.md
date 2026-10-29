@@ -131,6 +131,14 @@ React and React Native SDKs, Capacitor mobile apps, web front ends, payment inte
 ---
 
 ## On GitHub
+<p align="center">
+  <a href="https://gitscore.live/acetennyson">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/acetennyson?style=card&theme=dark" />
+      <img src="https://gitscore.live/api/badge/acetennyson?style=card" alt="GitScore for acetennyson" />
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <picture>
